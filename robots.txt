@@ -182,6 +182,12 @@ Allow: /
 Host: g-main1.github.io
 Sitemap: https://g-main1.github.io/gtechit-blog/sitemap.xml
 
+# ---------- IndexNow ----------
+# Immediate notification to participating engines (Bing, Microsoft Edge, Yandex,
+# Seznam and other IndexNow partners) when URLs are added, updated or removed.
+# The public key is served from the site root; see the repository for the push
+# script. Google does not currently participate in IndexNow — use Search Console.
+
 # ---------- Machine-readable summaries for AI agents ----------
 # /llms.txt        curated overview, quick answers and hashtags
 # /llms-full.txt   complete plain-text version of the page
