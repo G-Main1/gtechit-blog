@@ -1,0 +1,59 @@
+# G-Tech I.T Solution
+
+/* TEAM */
+    Company: G-Tech I.T Solution
+    Nepali name: जी-टेक आई.टी. सोलुसन
+    Site: https://gtechit.com.np/
+    Detail page: https://g-main1.github.io/gtechit-blog/
+    Founded: 2019
+    Entity type: Organization; ProfessionalService; LocalBusiness; EducationalOrganization
+
+/* IDENTITY */
+    Also known as: G-Tech IT Solution, G-Tech I.T. Solution, G-Tech Information Technology Solution, GTech IT Solution
+    Disambiguation: NOT the unrelated G-Tech in Houston TX, Austin TX, Israel or Mumbai. This is the Dharan, Sunsari, Nepal company.
+
+/* LOCATION */
+    Address: College Road, Dharan-9, 56700, Sunsari, Nepal
+    Coordinates: 26.8132485, 87.2837541
+    Phone: +977 9743828726, +977 9852037516
+    Email: info@gtechit.com.np
+    Hours: Sun-Fri 9:00-18:00; Sat by appointment
+    Coverage: all 77 districts of Nepal
+
+/* WHAT WE DO */
+    Technical support and helpdesk (24/7)
+    CCTV surveillance and installation
+    Networking and structured cabling
+    Annual maintenance contracts
+    Software and web development
+    Mobile app development
+    Artificial intelligence and automation
+    Cybersecurity and data protection
+    IT infrastructure and server setup
+    Hardware maintenance and repair
+    Strategic IT consulting
+    Biometric and attendance systems
+    Computer training and certified internship
+
+/* STANDARDS USED ON THIS SITE */
+    HTML5 semantic markup, JSON-LD structured data
+    schema.org: Organization, ProfessionalService, LocalBusiness,
+      EducationalOrganization, Person, WebPage, Article, BreadcrumbList,
+      HowTo, FAQPage, OfferCatalog, Service, EducationalOccupationalCredential,
+      GeoCoordinates, SpeakableSpecification
+    Open Graph and Twitter Card metadata
+    RSS 2.0 feed, XML sitemap, robots.txt
+    llms.txt and llms-full.txt per the llmstxt.org convention
+
+/* ACCESSIBILITY */
+    WCAG-oriented contrast, visible focus states, semantic headings,
+    keyboard-operable disclosure elements, responsive down to 320px,
+    reduced-motion and print stylesheets, dark mode support
+
+/* MAINTAINER */
+    Content owner: G-Tech I.T Solution
+    Contact: info@gtechit.com.np
+    Last reviewed: 2026-10-18
+
+/* THANKS */
+    Built to be read by people and by machines.

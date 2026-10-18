@@ -1,0 +1,55 @@
+{
+  "name": "G-Tech I.T Solution",
+  "short_name": "G-Tech IT",
+  "description": "IT services and enterprise technology company in Dharan, Sunsari, Nepal, operating since 2019. Software and web development, ERP/CRM, AI and automation, cybersecurity, networking, CCTV, AMC and certified IT training across all 77 districts of Nepal.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "en-NP",
+  "dir": "ltr",
+  "background_color": "#061120",
+  "theme_color": "#0b1f3a",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Company page",
+      "short_name": "About",
+      "url": "/",
+      "description": "What, where and how for G-Tech I.T Solution"
+    },
+    {
+      "name": "Contact details",
+      "short_name": "Contact",
+      "url": "/#talk-to-g-tech-i-t-solution",
+      "description": "Phone, email and Dharan-9 office address"
+    },
+    {
+      "name": "Services",
+      "short_name": "Services",
+      "url": "/#what-services-does-g-tech-i-t-solution-provide",
+      "description": "All twelve service lines"
+    },
+    {
+      "name": "Frequently asked questions",
+      "short_name": "FAQ",
+      "url": "/#frequently-asked-questions",
+      "description": "Thirteen common questions with direct answers"
+    }
+  ]
+}

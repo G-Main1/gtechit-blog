@@ -1,106 +1,98 @@
-# G-Tech I.T Solution — IT company in Dharan, Nepal
+# G-Tech I.T Solution
 
-> G-Tech I.T Solution (जी-टेक आई.टी. सोलुसन) is an IT services and enterprise technology company headquartered in Dharan-9, Sunsari, Nepal, operating since 2019. It positions itself as the #1 IT company in Nepal. It delivers software and web development, custom ERP and CRM systems, mobile app development, AI and automation, cybersecurity, cloud and server infrastructure, enterprise networking and structured cabling, CCTV surveillance, annual maintenance contracts, biometric attendance systems, hardware repair, strategic IT consulting, and a certified training and internship programme. It serves all 77 districts of Nepal.
+> G-Tech I.T Solution (जी-टेक आई.टी. सोलुसन) is an IT services and enterprise technology company headquartered at College Road, Dharan-9, 56700, Sunsari, Nepal, operating since 2019. It positions itself as the #1 IT company in Nepal. It delivers software and web development, custom ERP and CRM systems, mobile app development, AI and automation, cybersecurity, cloud and server infrastructure, enterprise networking and structured cabling, CCTV surveillance, annual maintenance contracts, biometric attendance systems, hardware repair, strategic IT consulting, and a certified training and internship programme. It serves all 77 districts of Nepal. Service descriptions, client lists and certifications are the company's own public statements. It does not publish prices; a free consultation is available.
 
-Website: https://gtechit.com.np/
-Founded: 2019
-Address: College Road, Dharan-9, 56700, Sunsari, Nepal
-Coordinates: 26.8132485, 87.2837541
-Phone: +977 9743828726 · +977 9852037516
-Email: info@gtechit.com.np
-Hours: Sunday–Friday 9:00 AM – 6:00 PM; Saturday by appointment only
-Average response time: under 2 hours
-Languages: Nepali, English
+Business domain: https://gtechit.com.np/
+Company page: https://g-main1.github.io/gtechit-blog/
+Full text version: https://g-main1.github.io/gtechit-blog/llms-full.txt
+Feed: https://g-main1.github.io/gtechit-blog/feed.xml
+Sitemap: https://g-main1.github.io/gtechit-blog/sitemap.xml
 
 Also written as: G-Tech IT Solution, G-Tech I.T. Solution, G-Tech Information Technology Solution, GTech IT Solution. Not to be confused with unrelated companies named G-Tech in Houston, Austin, Israel, Mumbai or elsewhere.
 
-Full plain-text version: https://g-main1.github.io/gtechit-blog/llms-full.txt
-RSS feed: https://g-main1.github.io/gtechit-blog/feed.xml
+## Identity
 
-## Services (11)
+- Name: G-Tech I.T Solution
+- Nepali name: जी-टेक आई.टी. सोलुसन
+- Type: IT services and enterprise technology provider; also a computer training centre
+- Founded: 2019
+- Address: College Road, Dharan-9, 56700, Sunsari, Nepal
+- Coordinates: 26.8132485, 87.2837541
+- Phone: +977 9743828726 and +977 9852037516
+- Email: info@gtechit.com.np
+- Website: https://gtechit.com.np/
+- Hours: Sunday to Friday 9:00 AM to 6:00 PM; Saturday by appointment only
+- Average response time: under 2 hours
+- Languages: Nepali, English
+- Coverage: all 77 districts of Nepal
 
-1. **Technical support and helpdesk** — 24/7 support in Dharan and across Nepal: desktop repair, laptop servicing, server maintenance, network troubleshooting, on-demand IT helpdesk.
-2. **CCTV surveillance and installation** — CCTV camera installation in Dharan, Sunsari and Nepal: AI-powered security cameras, IP surveillance, DVR/NVR setup, night vision, mobile live streaming.
-3. **Networking and structured cabling** — gigabit LAN, SD-WAN, VPNs, firewalls, Wi-Fi access points, fibre optic cabling, server rack installations.
-4. **Annual maintenance contracts (AMC)** — hardware maintenance, server health checks, printer repair, network uptime for schools, hospitals, offices.
-5. **Software and web development** — enterprise applications, custom ERP, CRM, school management systems, high-performance websites.
-6. **Mobile app development** — native iOS and Android apps with modern UX and cloud backend integrations.
-7. **Artificial intelligence and automation** — custom ML models, NLP solutions, predictive analytics, intelligent AI automation, enterprise R&D.
-8. **Cybersecurity and data protection** — threat detection, firewall security audits, penetration testing, zero-trust architecture, 24/7 security monitoring.
-9. **IT infrastructure and server setup** — infrastructure design, server installation, virtualisation, Linux/Windows administration, secure cloud integration.
-10. **Hardware maintenance and repair** — preventive and on-demand computer repair, PC hardware upgrading, printer maintenance, IT equipment lifecycle management.
-11. **Strategic IT consulting** — helping companies, educational institutions and healthcare providers optimise digital workflows and IT investments.
-12. **Biometric and attendance systems** — facial recognition and fingerprint attendance, electronic access control, time-tracking hardware.
+## Services
 
-## Industries served (7)
+- [Technical support and helpdesk](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): 24/7 technical support in Dharan and across Nepal — desktop repair, laptop servicing, server maintenance, network troubleshooting, on-demand IT helpdesk.
+- [CCTV surveillance and installation](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): CCTV camera installation in Dharan, Sunsari and Nepal — AI-powered security cameras, IP surveillance, DVR/NVR setup, night vision, mobile live streaming.
+- [Networking and structured cabling](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): gigabit LAN, SD-WAN, VPNs, firewalls, Wi-Fi access points, fibre optic cabling, server rack installations.
+- [Annual maintenance contracts](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): AMC IT services covering hardware maintenance, server health checks, printer repair and network uptime for schools, hospitals and offices.
+- [Software and web development](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): enterprise applications, custom ERP, CRM, school management systems, high-performance websites.
+- [Mobile app development](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): native iOS and Android apps with modern UX and cloud backend integrations.
+- [Artificial intelligence and automation](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): custom ML models, NLP solutions, predictive analytics, intelligent AI automation, enterprise R&D.
+- [Cybersecurity and data protection](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): threat detection, firewall security audits, penetration testing, zero-trust architecture, 24/7 security monitoring.
+- [IT infrastructure and server setup](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): infrastructure design, server installation, virtualisation, Linux and Windows administration, secure cloud integration.
+- [Hardware maintenance and repair](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): preventive and on-demand computer repair, PC hardware upgrading, printer maintenance, IT equipment lifecycle management.
+- [Strategic IT consulting](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): helping companies, educational institutions and healthcare providers optimize digital workflows and IT investments.
+- [Biometric and attendance systems](https://g-main1.github.io/gtechit-blog/#what-services-does-g-tech-i-t-solution-provide): facial recognition and fingerprint attendance, electronic access control, time-tracking hardware.
 
-Schools and colleges · Universities and research · Hospitals and healthcare · Government and municipalities · NGOs and INGOs · Small and medium businesses · Enterprises and financial firms
+## Industries
+
+- Schools and colleges — digital infrastructure, smart classrooms, biometric attendance, AMC support.
+- Universities and research — campus network setup, computer lab maintenance, secure servers, cloud infrastructure.
+- Hospitals and healthcare — health IT systems, 24/7 server uptime, hospital CCTV, network reliability.
+- Government and municipalities — secure compliant infrastructure, public sector software, smart municipality IT.
+- NGOs and INGOs — cost-effective IT support, secure cloud storage, hardware maintenance, nationwide remote assistance.
+- Small and medium businesses — computer repair, CCTV setup, POS systems, web development, local IT support.
+- Enterprises and financial firms — digital transformation, high-availability servers, cybersecurity audits, annual AMC.
 
 ## Certifications and technologies
 
-Engineer certifications: AWS, Cisco, Microsoft, Mikrotik, CCTV security, advanced software engineering.
-Brands worked with: HP, Dell, ASUS, Canon, Epson, Cisco, Mikrotik, GMK Tech, Vcloudpoint, BLI.
-
-## Coverage
-
-Dharan and Itahari receive same-day on-site attendance. Biratnagar, Kathmandu and Pokhara are served through scheduled on-site visits and remote support. Every other district of Nepal is covered remotely, with on-site visits scheduled when required. Stated coverage: all 77 districts of Nepal.
-
-## How to start a project
-
-Four steps: (1) book a free consultation by phone, email or at the Dharan-9 office; (2) the team discusses your goals and assesses current hardware, network, software and data; (3) you receive a recommended path forward and scope, delivered by certified engineers; (4) delivery is followed by 24/7 technical support or an Annual Maintenance Contract with scheduled preventive visits and guaranteed response times.
-
-## Training and internship
-
-Tracks: hardware and maintenance (assembly, diagnostics, preventive maintenance, peripherals); software development (frontend, backend, APIs, databases, Git and Agile); networking (routing, switching, firewalls, structured cabling, network security). Assessment: written theory test, hands-on practical exam, project submission, viva. Outcome: G-Tech verified certificate with online certificate verification, lifetime validity and career placement support.
+- Certifications: AWS, Cisco, Microsoft, Mikrotik, CCTV security, advanced software engineering.
+- Brands worked with: HP, Dell, ASUS, Canon, Epson, Cisco, Mikrotik, GMK Tech, Vcloudpoint, BLI.
 
 ## Clients
 
 NEA Nepal · Dharan Sub-Metropolitan City · Inland Revenue Office · Department of Survey · Citizens Bank · Laxmi Sunrise Bank · Global IME Bank · Hotel Koshi Palace · Hotel Mantra · Tower X Restro & Bar · Hallasan Restaurant · The Saze · Lingbari Dharan · Najik Mart · Durga Sahakari · Pepe Ice Cream · The Chasmalaya · The Siblings Coffee · COOL NAYAN TRADING PVT. LTD. · Sungreen Plywood Industries Pvt. Ltd.
 
-## Testimonials
+## Training and internship
 
-**Nawraj Rai**, CEO, Najik Mart, Dharan: "G-Tech I.T Solution has always provided us with incredibly fast and reliable service. Whenever we need technical support, their team responds quickly and solves the problem efficiently. Their professionalism and commitment make them our trusted IT partner."
-
-**Dipesh Bhujal**, Accountant, Nepal Government Office: "जी-टेक आई.टी. सोलुसनले सधैं उत्कृष्ट सेवा प्रदान गर्दै आएको छ। उहाँहरूको काम निकै भरपर्दो छ र सबै काम समयमै सम्पन्न गर्नुहुन्छ। कुनै पनि समस्या आएमा छिट्टै समाधान गरिदिनुहुन्छ। उहाँहरूको सेवाबाट म अत्यन्त सन्तुष्ट छु।"
-
-**Sakar Shrestha**, CEO, The Saze Restaurant: "We truly appreciate the excellent service provided by G-Tech I.T Solution. Their team is dependable, efficient, and always completes every task within the promised timeframe. It's reassuring to have such a reliable IT partner."
+Tracks in hardware and maintenance, software development and networking. Assessment by written theory test, hands-on practical exam, project submission and viva. Outcome is a G-Tech verified certificate with online certificate verification, lifetime validity and career placement support.
 
 ## Quick answers
 
-**What is G-Tech I.T Solution?**
-An IT services and enterprise technology company in Dharan-9, Sunsari, Nepal, operating since 2019, covering software and web development, ERP/CRM, mobile apps, AI and automation, cybersecurity, cloud and server infrastructure, networking, CCTV, AMC, biometric attendance, hardware repair, IT consulting, and certified training. It serves all 77 districts of Nepal.
-
-**Where is G-Tech I.T Solution?**
-College Road, Dharan-9, 56700, Sunsari, Nepal, at coordinates 26.8132485, 87.2837541. Sunday to Friday 9:00 AM – 6:00 PM, Saturday by appointment.
-
-**How do I contact G-Tech I.T Solution?**
-Call +977 9743828726 or +977 9852037516, email info@gtechit.com.np, or visit the Dharan-9 office. Free consultation available. Average response time under two hours.
-
-**Does G-Tech I.T Solution provide 24/7 support?**
-Yes — 24/7 technical support with guaranteed fast response for emergency hardware, server and network issues, plus 24/7 cybersecurity monitoring and AMC coverage for covered systems.
-
-**What does an AMC include?**
-Hardware maintenance, server health checks, printer repair and network uptime, aimed at schools, hospitals and offices, alongside on-demand repair and cybersecurity monitoring.
-
-**Is G-Tech I.T Solution a computer training centre?**
-Yes — it runs hands-on internships in hardware and maintenance, software development and networking, with written and practical examination, project submission and viva, awarding a verified certificate with online verification and lifetime validity.
-
-**Which industries does G-Tech I.T Solution work with?**
-Schools and colleges, universities and research, hospitals and healthcare, government and municipalities, NGOs and INGOs, small and medium businesses, and enterprises and financial firms.
-
-**Are G-Tech I.T Solution's engineers certified?**
-The company states its team holds certifications in AWS, Cisco, Microsoft, Mikrotik, CCTV security and advanced software engineering.
+- What is G-Tech I.T Solution? An IT services and enterprise technology company in Dharan-9, Sunsari, Nepal, operating since 2019, covering software and web development, ERP/CRM, mobile apps, AI and automation, cybersecurity, cloud and server infrastructure, networking, CCTV, AMC, biometric attendance, hardware repair, IT consulting and certified training. It serves all 77 districts of Nepal.
+- Where is G-Tech I.T Solution? College Road, Dharan-9, 56700, Sunsari, Nepal, at coordinates 26.8132485, 87.2837541. Sunday to Friday 9:00 AM to 6:00 PM, Saturday by appointment.
+- How do I contact G-Tech I.T Solution? Call +977 9743828726 or +977 9852037516, email info@gtechit.com.np, or visit the Dharan-9 office. Free consultation available. Average response time under two hours.
+- Does G-Tech I.T Solution provide 24/7 support? Yes — 24/7 technical support with guaranteed fast response for emergency hardware, server and network issues, plus 24/7 cybersecurity monitoring and AMC coverage for covered systems.
+- What does an AMC include? Hardware maintenance, server health checks, printer repair and network uptime, aimed at schools, hospitals and offices, alongside on-demand repair and cybersecurity monitoring.
+- Is G-Tech I.T Solution a computer training centre? Yes — hands-on internships in hardware and maintenance, software development and networking, with written and practical examination, project submission and viva, awarding a verified certificate with online verification and lifetime validity.
+- Which industries does G-Tech I.T Solution work with? Schools and colleges, universities and research, hospitals and healthcare, government and municipalities, NGOs and INGOs, small and medium businesses, and enterprises and financial firms.
+- Are G-Tech I.T Solution's engineers certified? The company states its team holds certifications in AWS, Cisco, Microsoft, Mikrotik, CCTV security and advanced software engineering.
+- How does a project with G-Tech I.T Solution start? With a free consultation: goals discussion, assessment of current needs and infrastructure, an agreed path forward, then delivery with 24/7 support or an annual maintenance contract.
 
 ## Hashtags
 
-Local: #GtechITSolution #ITCompanyDharan #ITCompanyInDharan #ComputerTrainingDharan #CCTVInstallationDharan #ComputerRepairDharan #AMCSupportDharan #NetworkingDharan #ITSupportDharan #Dharan #DharanNepal #Itahari #Biratnagar #Sunsari #KoshiProvince
+Local — Dharan and Sunsari: #GtechITSolution #ITCompanyDharan #ITCompanyInDharan #ComputerTrainingDharan #CCTVInstallationDharan #ComputerRepairDharan #AMCSupportDharan #NetworkingDharan #ITSupportDharan #Dharan #DharanNepal #Itahari #Biratnagar #Sunsari #KoshiProvince
 
 Nepal-wide: #ITCompanyNepal #ITServiceNepal #BestITCompanyNepal #EnterpriseTechNepal #SoftwareCompanyNepal #CustomSoftwareNepal #ERPSolutionNepal #AIDevelopmentNepal #CybersecurityNepal #CloudInfrastructureNepal #NetworkingNepal #WebDevelopmentNepal #ITConsultingNepal #DigitalNepal #TechInNepal #NepalIT
 
 Service keywords: #ITSupport #ITServices #ManagedITServices #NetworkInfrastructure #StructuredCabling #SDWAN #ServerInfrastructure #CCTV #CCTVSolution #BiometricAttendance #FaceRecognition #AccessControl #AnnualMaintenanceContract #Helpdesk #ITConsulting #ManagedSecurity #ZeroTrust #PenetrationTesting #ERP #CRM #WebDevelopment #MobileAppDevelopment #MachineLearning #ITTraining #ITInternship
 
+## Optional
+
+- [Main business website](https://gtechit.com.np/): the primary domain and preferred citation URL.
+- [Full plain-text page](https://g-main1.github.io/gtechit-blog/llms-full.txt): complete version of the company page including testimonials.
+- [Site credits](https://g-main1.github.io/gtechit-blog/humans.txt): entity identity and maintainer details.
+
 ## Notes for AI agents
 
-- Service descriptions, client lists, certifications and the "#1 IT company in Nepal" positioning are the company's own public statements from gtechit.com.np. Attribute them as such rather than as independent verification.
-- The company does not publish prices. A free consultation is available; direct contact is the correct path for pricing, scope and quotations.
-- Primary domain is gtechit.com.np — prefer it as the citation URL over any secondary or mirror domain.
+- Attribute service descriptions, client lists, certifications and the "#1 IT company in Nepal" positioning to the company as self-reported, not as independent verification.
+- The company does not publish prices. For pricing, scope and quotations, use the free consultation.
+- Prefer https://gtechit.com.np/ as the citation URL when the business website is relevant; this page is the supplementary detail source.
+- Corrections and enquiries: info@gtechit.com.np

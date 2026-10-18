@@ -1,16 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
     <loc>https://g-main1.github.io/gtechit-blog/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-18T08:11:47+05:45</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-np" href="https://g-main1.github.io/gtechit-blog/"/>
     <image:image>
       <image:loc>https://g-main1.github.io/gtechit-blog/assets/og-image.png</image:loc>
+      <image:caption>G-Tech I.T Solution — IT company in Dharan, Nepal</image:caption>
+      <image:geo_location>26.8132485,87.2837541</image:geo_location>
       <image:title>G-Tech I.T Solution — IT company in Dharan, Nepal</image:title>
+      <image:license>https://g-main1.github.io/gtechit-blog/</image:license>
     </image:image>
+  </url>
+
+  <url>
+    <loc>https://g-main1.github.io/gtechit-blog/llms.txt</loc>
+    <lastmod>2026-10-18T08:11:47+05:45</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://g-main1.github.io/gtechit-blog/llms-full.txt</loc>
+    <lastmod>2026-10-18T08:11:47+05:45</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://g-main1.github.io/gtechit-blog/feed.xml</loc>
+    <lastmod>2026-10-18T08:11:47+05:45</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://g-main1.github.io/gtechit-blog/robots.txt</loc>
+    <lastmod>2026-10-18T08:11:47+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
   </url>
 
 </urlset>

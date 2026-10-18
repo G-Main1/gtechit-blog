@@ -1,13 +1,18 @@
 # robots.txt — G-Tech I.T Solution
-# https://www.robotstxt.org/robotstxt.html
+# https://www.robotstxt.org/robotstxt.html  (RFC 9309)
+# Host: https://g-main1.github.io
+# Canonical business domain: https://gtechit.com.np
 
+# ---------- Default: allow everything ----------
 User-agent: *
 Allow: /
-Disallow: /mailbox
-Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&ref&fbclid&gclid
+Disallow: /404.html
+Disallow: /404
+Disallow: /search
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&ref&fbclid&gclid&msclkid&mc_cid&mc_eid
 Crawl-delay: 1
 
-# ---------- Search engines ----------
+# ---------- Google ----------
 User-agent: Googlebot
 Allow: /
 
@@ -17,23 +22,35 @@ Allow: /
 User-agent: Googlebot-News
 Allow: /
 
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Google-Read-Ally
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Google-CloudVertexBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# ---------- Bing / Microsoft Copilot ----------
 User-agent: Bingbot
 Allow: /
 
-User-agent: DuckDuckBot
+User-agent: msnbot
 Allow: /
 
-User-agent: Yahoo
+User-agent: BingPreview
 Allow: /
 
-User-agent: Yandex
+User-agent: AdIdxBot
 Allow: /
 
-User-agent: Baiduspider
-Allow: /
-
-# ---------- AI search & answer engines ----------
-# OpenAI: ChatGPT search index + GPT training
+# ---------- OpenAI: ChatGPT search, GPTs, training ----------
 User-agent: OAI-SearchBot
 Allow: /
 
@@ -43,7 +60,7 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
-# Anthropic: Claude + ClaudeBot
+# ---------- Anthropic: Claude, ClaudeBot, Claude Code ----------
 User-agent: ClaudeBot
 Allow: /
 
@@ -53,35 +70,38 @@ Allow: /
 User-agent: Claude-SearchBot
 Allow: /
 
-# Perplexity
+# ---------- Perplexity ----------
 User-agent: PerplexityBot
 Allow: /
 
 User-agent: Perplexity-User
 Allow: /
 
-# Google AI (Gemini app grounding + model training)
-User-agent: Google-Extended
+# ---------- Meta AI ----------
+User-agent: meta-externalagent
 Allow: /
 
-User-agent: Google-CloudVertexBot
+User-agent: FacebookBot
 Allow: /
 
-# Microsoft Copilot / Bing
+# ---------- Apple Intelligence / Spotlight ----------
+User-agent: Applebot
+Allow: /
+
 User-agent: Applebot-Extended
 Allow: /
 
-User-agent: Bingbot-Extended
+# ---------- AI aggregators and training corpora ----------
+User-agent: Amazonbot
 Allow: /
 
-# Other AI assistants and agents
-User-agent: meta-externalagent
+User-agent: Bytespider
 Allow: /
 
 User-agent: CCBot
 Allow: /
 
-User-agent: Amazonbot
+User-agent: PetalBot
 Allow: /
 
 User-agent: cohere-ai
@@ -90,8 +110,85 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-# ---------- Machine-readable summaries for AI agents ----------
-# /llms.txt        curated overview + quick answers
-# /llms-full.txt   complete plain-text version of the page
-# /feed.xml        RSS feed
+User-agent: YouBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: omgili
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: newspaper
+Allow: /
+
+User-agent: SemanticScholarBot
+Allow: /
+
+# ---------- Other search engines ----------
+User-agent: Yandex
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: Yahoo
+Allow: /
+
+User-agent: Bravebot
+Allow: /
+
+User-agent: MojeekBot
+Allow: /
+
+User-agent: Qwantify
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+# ---------- Social and link unfurlers ----------
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+# ---------- Directives ----------
+Host: g-main1.github.io
 Sitemap: https://g-main1.github.io/gtechit-blog/sitemap.xml
+
+# ---------- Machine-readable summaries for AI agents ----------
+# /llms.txt        curated overview, quick answers and hashtags
+# /llms-full.txt   complete plain-text version of the page
+# /feed.xml        RSS 2.0 feed
+# /sitemap.xml     URL and image sitemap
+# /humans.txt      site credits and entity identity
+# Structured data (JSON-LD) is embedded in the HTML head and body:
+#   Organization, ProfessionalService, LocalBusiness, EducationalOrganization,
+#   Person, WebPage, Article, BreadcrumbList, HowTo, FAQPage, OfferCatalog,
+#   Service, hasCredential, GeoCoordinates, SpeakableSpecification.
