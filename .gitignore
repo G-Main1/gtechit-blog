@@ -1,0 +1,21 @@
+﻿# Editors and OS noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Environment files and credentials
+.env
+.env.*
+*.key
+*.pem
+
+# OS installers
+*.exe
+*.msi

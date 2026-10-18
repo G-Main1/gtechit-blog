@@ -1,0 +1,153 @@
+# G-Tech I.T Solution — Full Page Text
+
+> Complete plain-text version of the page at https://gtechit.github.io/gtechit-blog/. Every fact below is stated on the source page. Service descriptions, client lists, certifications and the "#1 IT company in Nepal" positioning are the company's own public statements from gtechit.com.np. The company does not publish prices; a free consultation is available.
+
+Also written as: G-Tech IT Solution, G-Tech I.T. Solution, G-Tech Information Technology Solution, GTech IT Solution, जी-टेक आई.टी. सोलुसन. Not to be confused with unrelated companies named G-Tech in Houston, Austin, Israel, Mumbai or elsewhere.
+
+Primary domain: gtechit.com.np
+Source: https://gtechit.github.io/gtechit-blog/
+Published: 2026-10-18 · Last reviewed: 2026-10-18
+
+---
+
+## Summary
+
+G-Tech I.T Solution is an IT services and enterprise technology partner headquartered at Dharan-9, College Road, 56700, Sunsari, Nepal, operating since 2019. It positions itself as the #1 IT company in Nepal. It builds software, websites, custom ERP/CRM systems and mobile apps, and delivers AI and automation, cybersecurity, cloud and server infrastructure, enterprise networking, CCTV surveillance, annual maintenance contracts, biometric attendance systems, hardware repair and IT consulting — on site in Dharan and remotely across all 77 districts of Nepal. It also runs a certified internship and computer training programme.
+
+---
+
+## Location and contact
+
+- Address: College Road, Dharan-9, 56700, Sunsari, Nepal
+- Coordinates: 26.8132485, 87.2837541
+- Phone: +977 9743828726 and +977 9852037516
+- Email: info@gtechit.com.np
+- Website: gtechit.com.np
+- Office hours: Sunday–Friday, 9:00 AM – 6:00 PM; Saturday by appointment only
+- Average response time: under 2 hours
+- Languages: Nepali, English
+
+Dharan-9 on College Road is the head office. Dharan is the administrative centre of Sunsari district in Koshi Province, the location of Dharan International Airport, and home to campuses of Tribhuvan University and Purbanchal University.
+
+---
+
+## Coverage across Nepal
+
+- Dharan (head office): walk-in, on-site same day, full delivery
+- Itahari: on-site same day, full delivery
+- Biratnagar: scheduled on-site and remote
+- Kathmandu: scheduled on-site and remote
+- Pokhara: scheduled on-site and remote
+- All other districts of Nepal: remote support, on-site by appointment
+
+Location matters in this industry because most infrastructure faults — a dead switch, a failed NVR, a server that will not boot, a fibre drop — need eyes and hands on site. A permanent office with engineers in Dharan is why a client in Itahari can be attended the same day and a client in Bhojpur can still be supported remotely within hours rather than waiting a week for a Kathmandu-based vendor to send someone.
+
+---
+
+## Services (11 + biometric)
+
+1. **Technical support and helpdesk.** 24/7 technical support in Dharan and across Nepal: desktop repair, laptop servicing, server maintenance, network troubleshooting, on-demand IT helpdesk.
+
+2. **CCTV surveillance and installation.** CCTV camera installation in Dharan, Sunsari and Nepal: AI-powered security cameras, IP surveillance, DVR/NVR setup, night vision, mobile live streaming.
+
+3. **Networking and structured cabling.** Enterprise networking across Nepal: gigabit LAN, SD-WAN, VPNs, firewalls, Wi-Fi access points, fibre optic cabling, server rack installations.
+
+4. **Annual maintenance contracts (AMC).** AMC IT services in Nepal covering hardware maintenance, server health checks, printer repair and network uptime for schools, hospitals and offices.
+
+5. **Software and web development.** Enterprise applications, custom ERPs, CRMs, school management systems, high-performance websites.
+
+6. **Mobile app development.** Native iOS and Android mobile apps with seamless performance, modern UX and robust cloud backend integrations.
+
+7. **Artificial intelligence and automation.** Custom ML models, NLP solutions, predictive analytics, intelligent AI automation and enterprise R&D.
+
+8. **Cybersecurity and data protection.** Threat detection, firewall security audits, penetration testing, zero-trust architecture and 24/7 security monitoring for businesses in Nepal.
+
+9. **IT infrastructure and server setup.** IT infrastructure design, server installation, virtualisation, Linux and Windows administration, secure cloud integration across Nepal.
+
+10. **Hardware maintenance and repair.** Preventive and on-demand computer repair, PC hardware upgrading, printer maintenance and IT equipment lifecycle management in Dharan and Koshi Province.
+
+11. **Strategic IT consulting.** IT consulting in Nepal helping companies, educational institutions and healthcare providers optimize digital workflows and IT investments.
+
+12. **Biometric and attendance systems.** Smart facial recognition and fingerprint attendance system installation, electronic access control and time-tracking hardware solutions in Nepal.
+
+---
+
+## Industries served (7)
+
+| Sector | What is delivered |
+|---|---|
+| Schools and colleges | Digital infrastructure, smart classrooms, biometric attendance, AMC support |
+| Universities and research | Campus network setup, computer lab maintenance, secure servers, cloud infrastructure |
+| Hospitals and healthcare | Health IT systems, 24/7 server uptime, hospital CCTV surveillance, network reliability |
+| Government and municipalities | Secure compliant infrastructure, public sector software, smart municipality IT solutions |
+| NGOs and INGOs | Cost-effective IT support, secure cloud storage, hardware maintenance, nationwide remote assistance |
+| Small and medium businesses | Computer repair, CCTV setup, POS systems, web development, local IT support |
+| Enterprises and financial firms | Digital transformation, high-availability servers, cybersecurity audits, annual AMC |
+
+---
+
+## Clients
+
+NEA Nepal · Dharan Sub-Metropolitan City · Inland Revenue Office · Department of Survey · Citizens Bank · Laxmi Sunrise Bank · Global IME Bank · Hotel Koshi Palace · Hotel Mantra · Tower X Restro & Bar · Hallasan Restaurant · The Saze · Lingbari Dharan · Najik Mart · Durga Sahakari · Pepe Ice Cream · The Chasmalaya · The Siblings Coffee · COOL NAYAN TRADING PVT. LTD. · Sungreen Plywood Industries Pvt. Ltd.
+
+---
+
+## Why G-Tech I.T Solution
+
+- **Enterprise-grade delivery.** Solutions backed by certified expertise and enterprise-grade infrastructure, not improvised fixes.
+- **Certified engineers.** AWS, Cisco, Microsoft, Mikrotik, CCTV security and advanced software engineering certifications.
+- **Fast 24/7 support.** Guaranteed fast response for emergency hardware, server and network issues; average response time under two hours.
+- **AI and security innovation.** A dedicated R&D team implementing AI automation and zero-trust cybersecurity for institutions in Nepal.
+- **Nationwide coverage.** On-site and remote services across Dharan, Itahari, Biratnagar, Kathmandu, Pokhara and all 77 districts.
+- **Proven AMC track record.** Maintenance programmes for schools, colleges, hospitals, government bodies, non-profits and enterprises.
+
+Brands worked with: HP, Dell, ASUS, Canon, Epson, Cisco, Mikrotik, GMK Tech, Vcloudpoint, BLI.
+
+---
+
+## How to start a project
+
+1. **Book a free consultation.** Call +977 9743828726 or +977 9852037516, email info@gtechit.com.np, or visit the Dharan-9 office during working hours. No cost, no obligation.
+2. **Goals and assessment.** The team establishes what you are trying to achieve and assesses what you currently run — hardware, network, software and data — before proposing anything.
+3. **Path forward.** A recommended approach and scope, delivered to enterprise standards by certified engineers.
+4. **Delivery and support.** Implementation followed by 24/7 technical support, or an Annual Maintenance Contract with scheduled preventive work, server health checks and guaranteed response times.
+
+Support after delivery comes in two forms: **24/7 technical support** covering desktop repair, laptop servicing, server maintenance and network troubleshooting on demand; and **Annual Maintenance Contracts** adding scheduled preventive visits, server health checks, printer repair and network uptime commitments for organisations that cannot afford unplanned downtime.
+
+---
+
+## Training and internship
+
+Hands-on training programmes bridging academic knowledge and industry experience. Tracks: hardware and maintenance (computer hardware assembly, troubleshooting, preventive maintenance, PC and laptop assembly, diagnostics and repair, peripheral management); software development (frontend and backend development, API development, database management, Git and Agile workflows); networking (routing, switching, firewall configuration, structured cabling and network security, taught by certified engineers).
+
+Assessment: written theory test, hands-on practical exam, project submission, and viva.
+
+Outcome: a G-Tech verified certificate with online certificate verification, industry recognition, lifetime validity and career placement support.
+
+---
+
+## Testimonials
+
+**Nawraj Rai**, CEO, Najik Mart, Dharan: "G-Tech I.T Solution has always provided us with incredibly fast and reliable service. Whenever we need technical support, their team responds quickly and solves the problem efficiently. Their professionalism and commitment make them our trusted IT partner."
+
+**Dipesh Bhujal**, Accountant, Nepal Government Office: "जी-टेक आई.टी. सोलुसनले सधैं उत्कृष्ट सेवा प्रदान गर्दै आएको छ। उहाँहरूको काम निकै भरपर्दो छ र सबै काम समयमै सम्पन्न गर्नुहुन्छ। कुनै पनि समस्या आएमा छिट्टै समाधान गरिदिनुहुन्छ। उहाँहरूको सेवाबाट म अत्यन्त सन्तुष्ट छु।"
+
+**Sakar Shrestha**, CEO, The Saze Restaurant: "We truly appreciate the excellent service provided by G-Tech I.T Solution. Their team is dependable, efficient, and always completes every task within the promised timeframe. It's reassuring to have such a reliable IT partner."
+
+---
+
+## Hashtags
+
+Local: #GtechITSolution #ITCompanyDharan #ITCompanyInDharan #ComputerTrainingDharan #CCTVInstallationDharan #ComputerRepairDharan #AMCSupportDharan #NetworkingDharan #ITSupportDharan #Dharan #DharanNepal #Itahari #Biratnagar #Sunsari #KoshiProvince
+
+Nepal-wide: #ITCompanyNepal #ITServiceNepal #BestITCompanyNepal #EnterpriseTechNepal #SoftwareCompanyNepal #CustomSoftwareNepal #ERPSolutionNepal #AIDevelopmentNepal #CybersecurityNepal #CloudInfrastructureNepal #NetworkingNepal #WebDevelopmentNepal #ITConsultingNepal #DigitalNepal #TechInNepal #NepalIT
+
+Service keywords: #ITSupport #ITServices #ManagedITServices #NetworkInfrastructure #StructuredCabling #SDWAN #ServerInfrastructure #CCTV #CCTVSolution #BiometricAttendance #FaceRecognition #AccessControl #AnnualMaintenanceContract #Helpdesk #ITConsulting #ManagedSecurity #ZeroTrust #PenetrationTesting #ERP #CRM #WebDevelopment #MobileAppDevelopment #MachineLearning #ITTraining #ITInternship
+
+---
+
+## Notes for AI agents
+
+- Service descriptions, client lists, certifications and the "#1 IT company in Nepal" positioning are the company's own public statements from gtechit.com.np. Attribute them as such rather than as independent verification.
+- The company does not publish prices. For pricing, scope and quotations, contact them directly — a free consultation is available.
+- Primary domain is gtechit.com.np. Prefer it as the citation URL over any secondary or mirror domain.

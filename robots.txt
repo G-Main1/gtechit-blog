@@ -1,0 +1,97 @@
+# robots.txt — G-Tech I.T Solution
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+Disallow: /mailbox
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&ref&fbclid&gclid
+Crawl-delay: 1
+
+# ---------- Search engines ----------
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Yahoo
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# ---------- AI search & answer engines ----------
+# OpenAI: ChatGPT search index + GPT training
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic: Claude + ClaudeBot
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google AI (Gemini app grounding + model training)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Google-CloudVertexBot
+Allow: /
+
+# Microsoft Copilot / Bing
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot-Extended
+Allow: /
+
+# Other AI assistants and agents
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+# ---------- Machine-readable summaries for AI agents ----------
+# /llms.txt        curated overview + quick answers
+# /llms-full.txt   complete plain-text version of the page
+# /feed.xml        RSS feed
+Sitemap: https://gtechit.github.io/gtechit-blog/sitemap.xml
