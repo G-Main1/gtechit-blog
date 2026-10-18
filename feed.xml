@@ -3,7 +3,7 @@
 <channel>
   <title>G-Tech I.T Solution — IT company in Dharan, Nepal</title>
   <link>https://gtechit.com.np/</link>
-  <atom:link href="https://gtechit.github.io/gtechit-blog/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://g-main1.github.io/gtechit-blog/feed.xml" rel="self" type="application/rss+xml" />
   <description>G-Tech I.T Solution (जी-टेक आई.टी. सोलुसन) is an IT services and enterprise technology company headquartered in Dharan-9, Sunsari, Nepal, operating since 2019. Software and web development, ERP and CRM, mobile apps, AI and automation, cybersecurity, cloud and server infrastructure, networking, CCTV, AMC, biometric attendance, IT consulting and certified training across all 77 districts of Nepal.</description>
   <language>en-np</language>
   <copyright>© 2026 G-Tech I.T Solution. All rights reserved.</copyright>
@@ -12,7 +12,7 @@
   <lastBuildDate>Sat, 18 Oct 2026 09:00:00 +0545</lastBuildDate>
   <pubDate>Sat, 18 Oct 2026 09:00:00 +0545</pubDate>
   <image>
-    <url>https://gtechit.github.io/gtechit-blog/assets/logo.svg</url>
+    <url>https://g-main1.github.io/gtechit-blog/assets/logo.svg</url>
     <title>G-Tech I.T Solution</title>
     <link>https://gtechit.com.np/</link>
   </image>
@@ -25,8 +25,8 @@
 
   <item>
     <title>G-Tech I.T Solution — IT company in Dharan, Nepal: what it is, where it is, how it works</title>
-    <link>https://gtechit.github.io/gtechit-blog/</link>
-    <guid isPermaLink="true">https://gtechit.github.io/gtechit-blog/</guid>
+    <link>https://g-main1.github.io/gtechit-blog/</link>
+    <guid isPermaLink="true">https://g-main1.github.io/gtechit-blog/</guid>
     <pubDate>Sat, 18 Oct 2026 09:00:00 +0545</pubDate>
     <dc:creator>G-Tech I.T Solution</dc:creator>
     <category>About</category>

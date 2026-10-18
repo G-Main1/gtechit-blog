@@ -14,8 +14,8 @@ Languages: Nepali, English
 
 Also written as: G-Tech IT Solution, G-Tech I.T. Solution, G-Tech Information Technology Solution, GTech IT Solution. Not to be confused with unrelated companies named G-Tech in Houston, Austin, Israel, Mumbai or elsewhere.
 
-Full plain-text version: https://gtechit.github.io/gtechit-blog/llms-full.txt
-RSS feed: https://gtechit.github.io/gtechit-blog/feed.xml
+Full plain-text version: https://g-main1.github.io/gtechit-blog/llms-full.txt
+RSS feed: https://g-main1.github.io/gtechit-blog/feed.xml
 
 ## Services (11)
 

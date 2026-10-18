@@ -1,11 +1,11 @@
 # G-Tech I.T Solution — Full Page Text
 
-> Complete plain-text version of the page at https://gtechit.github.io/gtechit-blog/. Every fact below is stated on the source page. Service descriptions, client lists, certifications and the "#1 IT company in Nepal" positioning are the company's own public statements from gtechit.com.np. The company does not publish prices; a free consultation is available.
+> Complete plain-text version of the page at https://g-main1.github.io/gtechit-blog/. Every fact below is stated on the source page. Service descriptions, client lists, certifications and the "#1 IT company in Nepal" positioning are the company's own public statements from gtechit.com.np. The company does not publish prices; a free consultation is available.
 
 Also written as: G-Tech IT Solution, G-Tech I.T. Solution, G-Tech Information Technology Solution, GTech IT Solution, जी-टेक आई.टी. सोलुसन. Not to be confused with unrelated companies named G-Tech in Houston, Austin, Israel, Mumbai or elsewhere.
 
 Primary domain: gtechit.com.np
-Source: https://gtechit.github.io/gtechit-blog/
+Source: https://g-main1.github.io/gtechit-blog/
 Published: 2026-10-18 · Last reviewed: 2026-10-18
 
 ---

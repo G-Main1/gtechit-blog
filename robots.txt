@@ -94,4 +94,4 @@ Allow: /
 # /llms.txt        curated overview + quick answers
 # /llms-full.txt   complete plain-text version of the page
 # /feed.xml        RSS feed
-Sitemap: https://gtechit.github.io/gtechit-blog/sitemap.xml
+Sitemap: https://g-main1.github.io/gtechit-blog/sitemap.xml

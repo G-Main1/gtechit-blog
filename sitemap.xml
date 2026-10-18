@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://gtechit.github.io/gtechit-blog/</loc>
+    <loc>https://g-main1.github.io/gtechit-blog/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://gtechit.github.io/gtechit-blog/assets/og-image.png</image:loc>
+      <image:loc>https://g-main1.github.io/gtechit-blog/assets/og-image.png</image:loc>
       <image:title>G-Tech I.T Solution — IT company in Dharan, Nepal</image:title>
     </image:image>
   </url>
